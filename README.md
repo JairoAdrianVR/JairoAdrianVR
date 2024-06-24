@@ -9,9 +9,9 @@
 
 🎥 Streamer aficionado y coach de programacion con REACT, LARAVEL, MYSQL.
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+💻 Desarrollador Freelance Frontend (4+ años), Diseñador Grafico Freelance (4+ años), Desarrollador Mobile Android (Kotlin) en proceso.
 
-📝 roles en el ámbito: desarrollador... programador freelance... y sobre todo COACH Fullstack
+📝 roles en el ámbito: desarrollador... programador freelance... y sobre todo COACH Fullstack.
 
 📫 Contacto: **coachjairoadrian@gmail.com**
 <!--Intro end-->
