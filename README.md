@@ -9,7 +9,7 @@
 
 🎥 Streamer aficionado y coach de programacion con REACT, LARAVEL, MYSQL.
 
-💻 Desarrollador Freelance Frontend (4+ años), Diseñador Grafico Freelance (4+ años), Desarrollador Mobile Android (Kotlin) en proceso.
+💻 Desarrollador Freelance Frontend (4+ años), Diseñador Grafico Freelance (4+ años) y Desarrollador Mobile .
 
 📝 roles en el ámbito: desarrollador... programador freelance... y sobre todo COACH Fullstack.
 
