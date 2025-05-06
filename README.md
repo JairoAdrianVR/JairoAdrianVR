@@ -7,7 +7,7 @@
 
 <p align="left">
 
-🎥 Streamer aficionado y coach de programacion con REACT, LARAVEL, MYSQL.
+🎥 Streamer aficionado y coach de programacion con REACT, REACT NATIVE, LARAVEL, MYSQL.
 
 💻 Desarrollador Freelance Frontend (4+ años), Diseñador Grafico Freelance (4+ años) y Desarrollador Mobile .
 
@@ -23,7 +23,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,php,css,html,js,nodejs,mysql,sqlite,firebase,git,github,materialui,postman,vscode,bash,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,react,kotlin,java,php,css,html,js,nodejs,mysql,sqlite,firebase,git,github,materialui,postman,vscode,bash,linux,ai,ps&perline=12" />
   </a>
 </p>
 <br>
